@@ -1,4 +1,4 @@
-# Unit 18: BudgetTracker: Progressive Web Applications
+# Unit 19: BudgetTracker: Progressive Web Applications
 
 This repository (BudgetTracker) is an educational homework assignment from the CARL-OTT-FSF-PT-02-20121-U-C course. It was designed to help students become more familiar with using progressive web applications or PWA. PWA's are used to help support web applications by allowing the user to install the web page as a mobile application and be able to use that apllication offline. PWA'S have a set criteria to be considered one according to wikepedia "
 1. "Originate from a secure origin. Served over TLS and green padlock displays (no active mixed content). Progressive web apps must be served via HTTPS to ensure user privacy, security, and content authenticity.
@@ -10,7 +10,7 @@ This repository (BudgetTracker) is an educational homework assignment from the C
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lit-spire-34118.herokuapp.com/)
 
 ## Table of Contents 
-- [Unit 18: BudgetTracker: Progressive Web Applications](#unit-18-budgettracker-progressive-web-applications)
+- [Unit 19: BudgetTracker: Progressive Web Applications](#unit-19-budgettracker-progressive-web-applications)
   - [Table of Contents](#table-of-contents)
 - [Pictures](#pictures)
 - [Description](#description)
@@ -47,7 +47,7 @@ Teachers Assistants: BEN & AIDEN
 ## Lisence 
 MIT License
 
-Copyright (c) [2021] [FitnessTracker]
+Copyright (c) [2021] [BudgetTracker]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
